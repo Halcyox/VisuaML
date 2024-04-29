@@ -52,6 +52,6 @@ Please see our CONTRIBUTING.md for more details on how to contribute.
 
 # Similar Projects
 https://www.torchstudio.ai/
-https://docs.prototypeml.com/
+https://docs.prototypeml.com/ (https://docs.prototypeml.com/models/)
 https://github.com/google/visualblocks
-
+https://doc.fedml.ai/deploy/low_code_ui
